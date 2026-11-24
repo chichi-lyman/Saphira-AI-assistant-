@@ -1,0 +1,6 @@
+{
+  "name": "Saphira AI",
+  "description": "Autonomous agentic AI assistant and scheduler with real-time voice, Google Workspace orchestration, offline-first task sync, and deep reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
